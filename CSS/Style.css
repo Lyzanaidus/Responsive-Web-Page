@@ -1,0 +1,422 @@
+header
+{
+	/* background-image: url("Images/freya-img-1.jpg"); */
+	/* background-size: 100% 100%; */
+	/* background-color: #efefef; */
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	width: 100%;
+}
+
+.bg-1
+{
+	background-image: url("../Images/freya-img-1.jpg");
+}
+
+.bg-2
+{
+	background: red;
+}
+
+.title-1
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	/* margin: 60px 0px 10px 50px; 
+	width: 100%;*/
+}
+
+.subtitle-1
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.navigation li:hover
+{
+	background: white;
+	border-radius: 20px;
+}
+
+.title-2
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 35px;
+	font-weight: lighter;
+}
+
+.slider
+{
+	/* background-image: url("Images/freya-img-4.jpg");
+	background-size: 100% 100%; */
+	/* width: 94.85%; */
+	border: 6px solid #fac012;
+}
+
+.slider .heading-1 .left
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 30px;
+	/* margin: 60px 10px 20px 0px;
+	display: inline-block;
+	 */
+}
+
+.button-1
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	background: #1c1105;
+	color: white;
+}
+
+.arrow-1
+{
+	background: #fac012;
+}
+
+.title-3
+{
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #1c1105;
+}
+
+.subtitle-3
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	color: #1c1105;
+}
+
+.card-2
+{
+	width: 370px;
+	height: 230px;
+}
+
+.card-2 img
+{
+	width: 370px;
+}
+
+.title-4
+{
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #1c1105;
+}
+
+.title-5
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+	text-align: center;
+}
+
+.card-3
+{
+	width: 270px;
+	height: 400px;
+	border: 1px solid #d1d1d1;
+}
+
+.subcard-3
+{
+	line-height: 50px;
+}
+
+a
+{
+	color: black;
+	text-decoration: none;
+}
+
+.button-2
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	background: #fac012;
+	color: white;
+	text-align: center;
+	width: 270px;
+}
+
+.button-3
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.title-6
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+
+.subtitle-6
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: #9c9c9c;
+	text-align: center;
+	line-height: 20px;
+}
+
+.text-1
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #fac012;
+	text-align: center;
+}
+
+.section-4
+{
+	background-color: #28231d;
+}
+
+.title-7
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+}
+
+.subtitle-7
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: white;
+	line-height: 20px;
+}
+
+.button-4
+{
+	width: 370px;
+	border: 1px solid white;
+}
+
+.card-4
+{
+	width: 370px;
+	height: 330px;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: #9c9c9c;
+	line-height: 10px;
+}
+
+.card-4 img
+{
+	width: 370px;
+	height: 195px;
+}
+
+.datebox
+{
+	width: 60px;
+	height: 60px;
+	border: 1px solid #9c9c9c;
+}
+
+.title-8
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+}
+
+.subtitle-8
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.titlebox
+{
+	line-height: 15px;
+}
+
+.title-9
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+}
+
+.subtitle-9
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	color: #9c9c9c;
+}
+
+.card-4 .subtitle-6
+{
+	text-align: left;
+}
+
+.section-6
+{
+	background-color: #323232;
+	padding: 0px 0px 5px 0px;
+	/* background-image: url(Images/background2.jpg);
+	width: 100%; */
+}
+
+.title-10
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+}
+
+.subtitle-10
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: white;
+	line-height: 20px;
+}
+
+.section-6 .subtitle-10
+{
+	text-align: left;
+}
+
+.text-2
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
+	background-color: #323232;
+	width: 250px;
+}
+
+.button-5
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: black;
+	background-color: white;
+	text-align: center;
+	width: 75px;
+}
+
+.text-3
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.section-7 .title-8
+{
+	text-align: center;
+}
+
+.card-5
+{
+	width: 365px;
+	height: 235px;
+ 	background-color: #f6f6f6; 
+}
+
+.card-5 img
+{
+	width: 365px;
+	height: 235px;
+}
+
+.container-7
+{
+	background-color: #fac012;
+	width: 365px;
+	height: 235px;
+}
+
+.container-7 .subtitle-10
+{
+	text-align: center;
+}
+
+.text-4
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	line-height: 20px;
+	text-align: center;
+}
+
+.section-8
+{
+	background-color: #f7f7f7;
+	padding: 0px 0px 5px 0px;
+}
+
+.section-8 .container-8a
+{
+	background-color: #f7f7f7;
+	
+}
+
+
+.section-8 .container-8b
+{
+	background-color: #f7f7f7;
+	
+}
+
+.title-11
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 35px;
+}
+
+.subtitle-11
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	font-weight: lighter;
+}
+
+.title-12
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.subtitle-12
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+}
+
+.text-5
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	color: #c0c0c0;
+	background-color: #f7f7f7;
+	width: 100%;
+}

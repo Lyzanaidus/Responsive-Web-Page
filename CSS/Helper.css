@@ -1,0 +1,59 @@
+.left
+{
+	float: left;
+}
+
+.right
+{
+	float: right;
+}
+
+.clearfix:after
+{
+	content: '';
+	clear: both;
+	display: table;		/*or display: block;*/
+}
+
+.center 
+{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+  }
+
+.bold
+{
+	font-weight: bold;
+}
+
+.light
+{
+	font-weight: lighter;
+}
+
+.bgcolor-yellow
+{
+	background: #fac012;
+}
+
+.bgcolor-black
+{
+	background: black;
+}
+
+.color-black
+{
+	color: black;
+}
+
+.color-white
+{
+	color: white;
+}
+
+.color-yellow
+{
+	color: #fac012;
+}
