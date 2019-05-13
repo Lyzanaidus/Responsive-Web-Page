@@ -1,4 +1,4 @@
-@media screen and (min-width: 500px) 
+@media screen and (min-width: 501px) 
 {
 
 	.bg-1
@@ -39,6 +39,12 @@
 	.section-2
 	{
 		margin: 85px 5% 0px 5%;
+	}
+	
+	.container-1
+	{
+		margin: 0px 1% 110px 1%;
+		width: 100%;
 	}
 
 	.title-5

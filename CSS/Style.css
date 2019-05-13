@@ -99,6 +99,7 @@ header
 
 .card-2 img
 {
+	display: block;
 	width: 370px;
 }
 

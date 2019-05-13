@@ -70,6 +70,7 @@ header
 {
 	/* width: 94.85%; */
 	margin: 0px 40px 0px 40px;
+	position: relative;
 }
 
 .slider .heading-1 
@@ -95,12 +96,72 @@ header
 	position: relative;
 }
 
+.button-1:hover .arrow-1
+{
+	display: inline-block;
+}
+
 .button-1 .arrow-1
 {
+	display: none;
     padding: 4px 10px 5px 10px;
     position: absolute;
     left: 150px;
     top: 30px;
+}
+
+.left-arrow
+{
+	position: absolute;
+	left: -35px;
+	top: 45%;
+}
+
+.alt-arrow-holder 
+{
+    display: none;
+    z-index: 1;
+}
+
+.left-arrow:hover .alt-arrow-holder
+{
+	display: block;
+}
+
+.right-arrow:hover .alt-arrow-holder
+{
+	display: block;
+}
+
+.left-arrow:hover .left-arrow-holder
+{
+	display: none;
+}
+
+.right-arrow:hover .right-arrow-holder
+{
+	display: none;
+}
+
+.arrow-2
+{
+	position: absolute;
+	left: 35%;
+	top: 35%;	
+}
+
+.right-arrow
+{
+	position: absolute;
+	right: -35px;
+	top: 45%;
+}
+
+.arrow-3
+{
+	position: absolute;
+	right: 40%;
+	top: 35%;	
 }
 
 .slider .card-1
@@ -136,6 +197,7 @@ header
 .container-1
 {
 	margin: 0px 1% 110px 1%;
+	text-align: center;
 }
 
 .card-2
