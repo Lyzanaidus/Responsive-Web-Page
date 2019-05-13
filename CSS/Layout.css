@@ -3,6 +3,12 @@ header
 	/* margin: 60px 60px 50px 50px;  */
 }
 
+.line
+{
+	position: relative;
+	padding: 5px;
+}
+
 nav 
 {
 	display: none;
@@ -145,6 +151,20 @@ nav ul li:hover
     position: absolute;
     left: 150px;
     top: 30px;
+}
+
+.line .left-arrow
+{
+	position: absolute;
+	left: 20%;
+	top: -55%;
+}
+
+.line .right-arrow
+{
+	position: absolute;
+	right: 20%;
+	top: -55%;
 }
 
 .left-arrow
